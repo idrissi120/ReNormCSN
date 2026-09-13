@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+data/
+datasets/
+logs/
+*.pth
+*.pth.tar
+*.ckpt
+*.pkl
